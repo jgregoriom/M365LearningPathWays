@@ -1,0 +1,14 @@
+{
+  "Assets": {
+    "Url": "https://jgregoriom.github.io/M365LearningPathWays/v1/assets.json"
+  },
+  "Categories": {
+    "Url": "https://jgregoriom.github.io/M365LearningPathWays/v1/metadata.json"
+  },
+  "Playlists": {
+    "Url": "https://jgregoriom.github.io/M365LearningPathWays/v1/playlists.json"
+  },
+  "Technologies": {
+    "Url": "https://jgregoriom.github.io/M365LearningPathWays/v1/metadata.json"
+  }
+}
