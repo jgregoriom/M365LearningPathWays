@@ -1,0 +1,17 @@
+{
+  "Technologies": [],
+  "Categories": [
+    {
+      "Id": "44444444-aaaa-bbbb-cccc-dddddddddddd",
+      "Name": "Recursos Humanos",
+      "Image": "",
+      "TechnologyId": "SHAREPOINT",
+      "SubjectId": "",
+      "Source": "LetsSwitch",
+      "SubCategories": []
+    }
+  ],
+  "Audiences": [],
+  "Levels": [],
+  "Sources": []
+}
