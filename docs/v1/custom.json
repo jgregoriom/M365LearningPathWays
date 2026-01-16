@@ -1,0 +1,14 @@
+{
+  "Assets": {
+    "Url": "assets.json"
+  },
+  "Categories": {
+    "Url": "metadata.json"
+  },
+  "Playlists": {
+    "Url": "playlists.json"
+  },
+  "Technologies": {
+    "Url": "metadata.json"
+  }
+}
